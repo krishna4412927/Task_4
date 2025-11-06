@@ -6,6 +6,7 @@ import base64
 # Titan → extract key data
 # Claude → summarize & classify
 # Titan Image Generator
+# Tried with stable diffusion for image generation but ->This model version has reached the end of its life.
 
 # AWS Bedrock Model IDs 
 Text_Model = "amazon.titan-text-express-v1"  
